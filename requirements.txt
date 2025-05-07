@@ -1,0 +1,5 @@
+overpy
+pandas
+geopy
+python-dotenv
+tenacity
