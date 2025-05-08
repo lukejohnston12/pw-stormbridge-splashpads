@@ -57,7 +57,7 @@ the new CSV is in the repo root! 🎉
 
 ## Notes
 
-- Classification uses data tags in the response from Overpass. If there were no tags, the script defaults to "municipal_park". These should be validated in Clay with AI or manually to validate.
+- Classification uses data tags in the response from Overpass. If there were no tags, the script defaults to "municipal_park". These should be validated in Clay with AI or manually.
 
 ## Authors
 
