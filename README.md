@@ -22,6 +22,14 @@ clean_splashpads_*.csv  # generated output (not version‑controlled long term)
 
 ## Run Locally
 
+Prerequisite (macOS)
+
+If you haven’t installed Apple’s Command Line Developer Tools (provides Git and Python), run once:
+
+```bash
+  xcode-select --install
+```
+
 Clone the project
 
 ```bash
