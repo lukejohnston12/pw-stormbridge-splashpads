@@ -43,7 +43,7 @@ Create & activate a virtual‑environment, then install dependencies
   echo 'GEOCODER_EMAIL=you@example.com' > .env
 ```
 
-Pull the latest splash‑pad CSV
+Pull the latest splash pad CSV
 
 ```bash
   caffeinate -di python fetch_splashpads.py
